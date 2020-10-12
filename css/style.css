@@ -1,0 +1,52 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+header {
+    background-color: seagreen;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+header h1 {
+    padding: 30px;
+}
+nav {
+     background-color: turquoise;
+     color: white;
+     height: 100px;
+     text-align: center;
+}
+nav h1 {
+    padding: 30px;
+    font-size: 35px;
+}
+.article_section{
+    background-color: yellowgreen;
+    overflow: hidden;
+}
+.left_block {
+    width: 40%;
+    background-color: violet;
+    height: 400px;
+    float: right;
+.right_block {
+    width: 60%;
+    background-color: rgb(48, 68, 66);
+    height: 400px;
+    float: left;
+}
+}
+.top {
+    background-color: teal;
+    height:200px;
+    font-size: 30;
+}
+.bottom {
+    background-color: rgb(243, 117, 0);
+    height:200px;
+}
+footer {
+    background: olivedrab;
+    height: 100px;
+}
